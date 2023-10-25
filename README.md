@@ -1,5 +1,4 @@
-#  Page d'acceuil pour un site de restauration
-### [Live Site](https://gericht-restaurant.com/)
+#  Page d'acceuil pour un site de restauratio
 
 ![Restaurant Landing Page](https://i.ibb.co/5jxBKpw/image.png)
 
